@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gh-editor/static/css/main.f855e6bc.css",
+    "main.js": "/gh-editor/static/js/main.e0c72997.js",
+    "static/js/453.ee02a017.chunk.js": "/gh-editor/static/js/453.ee02a017.chunk.js",
+    "static/media/logo.svg": "/gh-editor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gh-editor/index.html",
+    "main.f855e6bc.css.map": "/gh-editor/static/css/main.f855e6bc.css.map",
+    "main.e0c72997.js.map": "/gh-editor/static/js/main.e0c72997.js.map",
+    "453.ee02a017.chunk.js.map": "/gh-editor/static/js/453.ee02a017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e0c72997.js"
+  ]
+}
